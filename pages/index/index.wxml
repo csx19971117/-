@@ -1,0 +1,221 @@
+<view class="head">
+   <image class="logo" src="https://m.boxuegu.com/_nuxt/img/logo.4ba874d.png" />
+  <image  class="select" src="https://m.boxuegu.com/_nuxt/img/search.f2a123d.png" />
+</view>
+<view class="image">
+   <image class="big" src="https://attachment-center.boxuegu.com/data/picture/online/2019/10/24/19/027d44b8c1f34fdfb655ec87157f7520.jpg" />
+</view>
+<view class="list1">
+  <view class="small1">
+   <image class="small" src="https://m.boxuegu.com/web/images/index/course.png" />
+   <text class="text">就业课</text>
+  </view>
+   <view class="small1">
+   <image class="small" src="https://m.boxuegu.com/web/images/index/mircoCourse.png" />
+    <text class="text">提升课</text>
+  </view>
+   <view class="small1">
+   <image class="small" src="https://m.boxuegu.com/web/images/index/freeMicroCourse.png" />
+     <text class="text">免费课</text>
+  </view>
+   <view class="small1">
+   <image class="small" src="https://m.boxuegu.com/web/images/index/courseType.png" />
+     <text class="text">课程分类</text>
+  </view>
+</view>
+
+<view class="center">
+  <text class="text2">就业课</text>
+  <text class="text3">更多</text>
+</view>
+
+
+  <view class="list-item">
+    <view class="list-item-left">
+      <image src="https://file.boxuegu.com/3940be1c755a44eeb8e2e0aaf984756e.png" />
+    </view>
+    <view class="list-item-right">
+      <view class="yellow">陈思旭是真的帅</view>
+      <view class="xixi">别爱我没结果，除非花手摇过我</view>
+      <view>
+        <view>哪有人学</view>
+        <view class="money">￥1724.00</view>
+      </view>
+    </view>
+  </view>
+
+ <view class="list-item">
+    <view class="list-item-left">
+      <image src="https://file.boxuegu.com/e19c53c6c1fa468aad6e11cb61d81b9a.png" />
+    </view>
+    <view class="list-item-right">
+      <view class="yellow">陈思旭是真的帅</view>
+      <view class="xixi">别爱我没结果，除非花手摇过我</view>
+      <view>
+        <view>哪有人学</view>
+        <view class="money">￥1724.00</view>
+      </view>
+    </view>
+  </view>
+   <view class="list-item">
+    <view class="list-item-left">
+      <image src="https://file.boxuegu.com/f6c878722f394a7c9bd12c0319f00037.png" />
+    </view>
+    <view class="list-item-right">
+      <view class="yellow">陈思旭是真的帅</view>
+      <view class="xixi">别爱我没结果，除非花手摇过我</view>
+      <view>
+        <view>哪有人学</view>
+        <view class="money">￥1724.00</view>
+      </view>
+    </view>
+  </view>
+   <view class="list-item">
+    <view class="list-item-left">
+      <image src="https://file.boxuegu.com/6c0ffe21a06d421d90be8a0061c14c1a.png" />
+    </view>
+    <view class="list-item-right">
+      <view class="yellow">陈思旭是真的帅</view>
+      <view class="xixi">别爱我没结果，除非花手摇过我</view>
+      <view>
+        <view>哪有人学</view>
+        <view class="money">￥1724.00</view>
+      </view>
+    </view>
+  </view>
+  
+  <view class="center">
+  <text class="text2">推荐课程</text>
+  <text class="text3">更多</text>
+</view>
+
+<view class="bigbox">
+    <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/e6432db4d06c42b9aca7aede22ba9437.jpg" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+    <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/989b9bd2a12d471b8e7579b7182d08b6.png" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+     <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/df25a3e7031a48d39a896d4e38d3d3d5.png" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+     <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/854b60de9d6742dbb29a47370b7c8650.png" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+     <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/746a8e78655a4b3ca97ccad5390fbc4b.png" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+     <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/90bb08a6bacd49baa5492c5eaa94c060.jpg" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+  </view>  
+
+    <view class="center">
+  <text class="text2">免费课</text>
+  <text class="text3">更多</text>
+</view>
+
+<view class="bigbox">
+    <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/74773be265b840b3af9da88f6f42841d.jpg" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+    <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/7e1535f414a64d3fa4d60e7c8a84cca3.jpg" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+     <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/3ed09c2ae4ea4542add4ac8b098c9535.jpg" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+     <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/6a0330c2237b4ed3af2a2703cc2f1419.jpg" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+     <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/ccc47386e2b048658f944d0db943321c.jpg" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+     <view class="box2">
+      <view ><image class="image3" src="https://file.boxuegu.com/49b20b70e42e446cafc60f9c6fd98d84.jpg" /></view>
+      <view class="ha">
+        <view class="tiancai">陈思旭真是天才</view>
+        <view class="en">
+          <view class="on">710人学习</view>
+          <view class="red1">￥8848</view>
+        </view>
+      </view>
+    </view>
+  </view>  
